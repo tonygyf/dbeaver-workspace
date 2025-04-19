@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/com.dbeaver.jdbc.api/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/com.dbeaver.jdbc.api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/com.dbeaver.ws.api/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/com.dbeaver.ws.api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/org.jkiss.utils/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/org.jkiss.utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/plugins/com.dbeaver.maven.p2.collector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/plugins/com.dbeaver.maven.p2.collector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/plugins/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/plugins/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../dbeaver-common/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

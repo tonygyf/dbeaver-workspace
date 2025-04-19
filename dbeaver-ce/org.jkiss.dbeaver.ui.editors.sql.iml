@@ -1,0 +1,78 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.lsm" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.data.transfer"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.data.transfer.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.data" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.native.ui" exported=""/>
+  <orderEntry type = "module-library" exported="">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.workbench.texteditor_3.19.100.v20250206-1224.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.workbench.texteditor.source_3.19.100.v20250206-1224.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.console_3.14.200.v20240918-1457.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.console.source_3.14.200.v20240918-1457.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.model.workbench_2.4.500.v20250215-1931.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.model.workbench.source_2.4.500.v20250215-1931.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.forms_3.13.400.v20240905-1138.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.forms.source_3.13.400.v20240905-1138.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.16.700.v20250212-1224.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.renderers.swt.source_0.16.700.v20250212-1224.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+ </component>
+</module>

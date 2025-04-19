@@ -1,0 +1,19 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.config.migration/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.config.migration">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.config.migration/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.config.migration/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.config.migration/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.net.ssh"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.net.ssh.jsch"/>
+ </component>
+</module>

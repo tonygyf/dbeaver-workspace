@@ -1,0 +1,17 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.postgresql"/>
+ </component>
+</module>

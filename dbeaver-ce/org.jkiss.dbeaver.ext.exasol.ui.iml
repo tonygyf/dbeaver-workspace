@@ -1,0 +1,24 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.exasol.ui/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.exasol.ui">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.exasol.ui/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.exasol.ui/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.exasol.ui/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.exasol"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.entity"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.locks"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.session"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+ </component>
+</module>

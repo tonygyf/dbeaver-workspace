@@ -1,0 +1,85 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+  <output url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/src/main/java"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/target/classes"/>
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/src/test/java" isTestSource="true"/>
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-jdbc-libsql/com.dbeaver.jdbc.driver.libsql/src/main/resources" type="java-resource"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="com.dbeaver.jdbc.api"/>
+  <orderEntry type = "module" module-name="org.jkiss.utils"/>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson_2.12.1.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson.source_2.12.1.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.mockito.mockito-core_4.8.1.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.opentest4j_1.3.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.opentest4j.source_1.3.0.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest.core_2.2.0.v20230809-1000.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest_3.0.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest.core.source_2.2.0.v20230809-1000.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest.source_3.0.0.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.junit_4.13.2.v20240929-1000.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest_3.0.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.junit.source_4.13.2.v20240929-1000.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/junit-jupiter-api_5.11.4.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/junit-jupiter-api.source_5.11.4.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+ </component>
+</module>

@@ -1,0 +1,20 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.cubrid.ui/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.cubrid.ui">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.cubrid.ui/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.cubrid.ui/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.cubrid.ui/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.cubrid"/>
+ </component>
+</module>

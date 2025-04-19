@@ -1,0 +1,48 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.contexts_1.13.100.v20250122-1647.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.contexts.source_1.13.100.v20250122-1647.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.services_2.5.100.v20250131-1039.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.services.source_2.5.100.v20250131-1039.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.postgresql" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic.ui" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.locks"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.native.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.data" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.entity"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.sql" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.session"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.ui"/>
+ </component>
+</module>

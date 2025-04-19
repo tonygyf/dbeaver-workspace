@@ -1,0 +1,20 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.native"/>
+ </component>
+</module>

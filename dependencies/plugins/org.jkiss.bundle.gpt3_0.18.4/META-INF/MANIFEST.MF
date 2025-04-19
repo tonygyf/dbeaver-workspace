@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.2
+Build-Jdk-Spec: 21
+Bundle-ManifestVersion: 2
+Bundle-Name: OpenAI API client
+Bundle-SymbolicName: org.jkiss.bundle.gpt3;singleton:=true
+Bundle-Version: 0.18.4
+Bundle-ClassPath: lib/adapter-rxjava2-2.9.0.jar,lib/api-0.18.2.jar,lib/c
+ lassgraph-4.8.174.jar,lib/client-0.18.2.jar,lib/converter-jackson-2.9.0
+ .jar,lib/jtokkit-0.5.1.jar,lib/mbknor-jackson-jsonschema_2.12-1.0.34.ja
+ r,lib/reactive-streams-1.0.3.jar,lib/rxjava-2.0.0.jar,lib/scala-library
+ -2.12.8.jar,lib/service-0.18.2.jar,lib/validation-api-2.0.1.Final.jar,.
+Bundle-Vendor: TheoKanning
+Eclipse-BundleShape: dir
+Export-Package: com.theokanning.openai,com.theokanning.openai.completion
+ ,com.theokanning.openai.completion.chat,com.theokanning.openai.embeddin
+ g,com.theokanning.openai.file,com.theokanning.openai.fine_tuning,com.th
+ eokanning.openai.finetune,com.theokanning.openai.model,com.theokanning.
+ openai.service,io.reactivex,retrofit2.adapter.rxjava2,retrofit2.convert
+ er.jackson
+Require-Bundle: org.jkiss.bundle.jackson;visibility:=reexport,org.jkiss.
+ bundle.okhttp;visibility:=reexport
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+

@@ -1,0 +1,180 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.osgi.service.event_1.4.1.202109301733.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.osgi.service.event.source_1.4.1.202109301733.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.core.filesystem_1.11.100.v20241022-0806.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.core.filesystem.source_1.11.100.v20241022-0806.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.core.net_1.5.600.v20250124-0919.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.core.net.source_1.5.600.v20250124-0919.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.equinox.security_1.4.500.v20250129-1350.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.equinox.security.win32_1.3.0.v20240419-2334.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.equinox.security.source_1.4.500.v20250129-1350.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.equinox.security.win32.source_1.3.0.v20240419-2334.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.browser_3.8.400.v20240915-0736.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.browser.source_3.8.400.v20240915-0736.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.ide_3.22.500.v20250124-0833.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.ide_3.17.200.v20231201-1637.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/jakarta.annotation-api_2.1.1.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/jakarta.inject.jakarta.inject-api_2.0.1.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.osgi.service.event_1.4.1.202109301733.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.ui.ide.source_3.22.500.v20250124-0833.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/jakarta.annotation-api.source_2.1.1.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/jakarta.inject.jakarta.inject-api.source_2.0.1.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.ide.source_3.17.200.v20231201-1637.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.contexts_1.13.100.v20250122-1647.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.contexts.source_1.13.100.v20250122-1647.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.services_2.5.100.v20250131-1039.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.core.services.source_2.5.100.v20250131-1039.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.model.workbench_2.4.500.v20250215-1931.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.model.workbench.source_2.4.500.v20250215-1931.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.services_1.6.500.v20250123-0754.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.services.source_1.6.500.v20250123-0754.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench_1.17.0.v20250215-1931.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.source_1.17.0.v20250215-1931.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.swt_0.17.700.v20250123-0706.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.swt.source_0.17.700.v20250123-0706.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.16.700.v20250212-1224.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.eclipse.e4.ui.workbench.renderers.swt.source_0.16.700.v20250212-1224.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.sql" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator" exported=""/>
+  <orderEntry type = "module-library" exported="">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core/lib/awt.injector-1.0.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+     </SOURCES>
+   </library>
+  </orderEntry>
+ </component>
+</module>

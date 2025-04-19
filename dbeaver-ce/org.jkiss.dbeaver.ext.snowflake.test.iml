@@ -1,0 +1,40 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.snowflake.test/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.snowflake.test">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.snowflake.test/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.snowflake.test/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.snowflake.test/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.junit_4.13.2.v20240929-1000.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest_3.0.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.hamcrest.source_3.0.0.jar!/"/>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.junit.source_4.13.2.v20240929-1000.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.test.platform"/>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/org.mockito.mockito-core_4.8.1.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.snowflake"/>
+ </component>
+</module>

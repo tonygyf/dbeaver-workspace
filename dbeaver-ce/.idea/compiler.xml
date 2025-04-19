@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="org.jkiss.utils" />
+        <module name="com.dbeaver.maven.p2.collector" />
+        <module name="com.dbeaver.jdbc.api" />
+        <module name="com.dbeaver.ws.api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

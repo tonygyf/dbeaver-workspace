@@ -1,0 +1,33 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.jdbc" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.sql.jdbc"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.data.gis" exported=""/>
+  <orderEntry type = "library" level="project" name="org.jkiss.bundle.gis" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.native" exported=""/>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson_2.12.1.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson.source_2.12.1.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+ </component>
+</module>

@@ -1,0 +1,21 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.sqlite/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.sqlite">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.sqlite/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.sqlite/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.sqlite/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.generic"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.data.gis"/>
+  <orderEntry type = "library" level="project" name="org.jkiss.bundle.gis"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.model.lsm"/>
+  <orderEntry type = "library" level="project" name="org.jkiss.bundle.antlr4"/>
+  <orderEntry type = "module" module-name="com.dbeaver.jdbc.driver.libsql" exported=""/>
+  <orderEntry type = "module" module-name="org.jkiss.utils"/>
+ </component>
+</module>

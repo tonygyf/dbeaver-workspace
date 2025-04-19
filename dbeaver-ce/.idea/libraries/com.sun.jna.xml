@@ -1,0 +1,10 @@
+<component name="libraryTable">
+ <library name="com.sun.jna">
+   <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/com.sun.jna_5.16.0.v20241222-1200"/>
+  </CLASSES>
+   <SOURCES>
+   </SOURCES>
+   <jarDirectory url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/com.sun.jna_5.16.0.v20241222-1200/lib!/" recursive="false"/>
+ </library>
+</component>

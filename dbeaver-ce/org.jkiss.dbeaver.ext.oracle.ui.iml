@@ -1,0 +1,48 @@
+<module type="JAVA_MODULE" version="4">
+ <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.oracle.ui/target/classes"/>
+  <exclude-output/>
+  <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.oracle.ui">
+   <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.oracle.ui/src"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.oracle.ui/target"/>
+   <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.oracle.ui/target/classes"/>
+  </content>
+  <orderEntry type="inheritedJdk" />
+  <orderEntry type="sourceFolder" forTests="false" />
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.config.migration"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.locks"/>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.github.jsqlparser_5.1.0.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module-library">
+   <library>
+     <CLASSES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson_2.12.1.jar!/"/>
+     </CLASSES>
+     <JAVADOC />
+     <SOURCES>
+      <root url="jar://$MODULE_DIR$/../../dbeaver-workspace/dependencies/plugins/com.google.gson.source_2.12.1.jar!/"/>
+     </SOURCES>
+   </library>
+  </orderEntry>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.registry"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.net.ssh"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ext.oracle"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.navigator"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.base"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.connection"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.data"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.entity"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.sql"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.ui.editors.session"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.native.ui"/>
+  <orderEntry type = "module" module-name="org.jkiss.dbeaver.tasks.ui"/>
+ </component>
+</module>

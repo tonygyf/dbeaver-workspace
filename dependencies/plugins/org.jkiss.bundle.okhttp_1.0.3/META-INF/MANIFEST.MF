@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.2
+Build-Jdk-Spec: 21
+Bundle-ManifestVersion: 2
+Bundle-Name: OkHttp Bundle
+Bundle-SymbolicName: org.jkiss.bundle.okhttp;singleton:=true
+Bundle-Version: 1.0.3
+Bundle-ClassPath: lib/annotations-13.0.jar,lib/kotlin-stdlib-1.9.21.jar,
+ lib/kotlin-stdlib-jdk7-1.8.21.jar,lib/kotlin-stdlib-jdk8-1.8.21.jar,lib
+ /okhttp-4.12.0.jar,lib/okio-3.9.0.jar,lib/okio-jvm-3.9.0.jar,lib/retrof
+ it-2.11.0.jar,.
+Eclipse-BundleShape: dir
+Export-Package: kotlin,kotlin.annotation,kotlin.collections,kotlin.colle
+ ctions.builders,kotlin.collections.jdk8,kotlin.collections.unsigned,kot
+ lin.comparisons,kotlin.concurrent,kotlin.contracts,kotlin.coroutines,ko
+ tlin.coroutines.cancellation,kotlin.coroutines.intrinsics,kotlin.corout
+ ines.jvm.internal,kotlin.enums,kotlin.experimental,kotlin.internal,kotl
+ in.internal.jdk7,kotlin.internal.jdk8,kotlin.io,kotlin.io.encoding,kotl
+ in.io.path,kotlin.jdk7,kotlin.js,kotlin.jvm,kotlin.jvm.functions,kotlin
+ .jvm.internal,kotlin.jvm.internal.markers,kotlin.jvm.internal.unsafe,ko
+ tlin.jvm.jdk8,kotlin.jvm.optionals,kotlin.math,kotlin.properties,kotlin
+ .random,kotlin.random.jdk8,kotlin.ranges,kotlin.reflect,kotlin.sequence
+ s,kotlin.streams.jdk8,kotlin.system,kotlin.text,kotlin.text.jdk8,kotlin
+ .time,kotlin.time.jdk8,okhttp3,okhttp3.internal,okhttp3.internal.authen
+ ticator,okhttp3.internal.cache,okhttp3.internal.cache2,okhttp3.internal
+ .concurrent,okhttp3.internal.connection,okhttp3.internal.http,okhttp3.i
+ nternal.http1,okhttp3.internal.http2,okhttp3.internal.io,okhttp3.intern
+ al.platform,okhttp3.internal.platform.android,okhttp3.internal.proxy,ok
+ http3.internal.publicsuffix,okhttp3.internal.tls,okhttp3.internal.ws,ok
+ io,okio.internal,org.intellij.lang.annotations,org.jetbrains.annotation
+ s,retrofit2,retrofit2.http,retrofit2.internal
+Import-Package: org.slf4j
+

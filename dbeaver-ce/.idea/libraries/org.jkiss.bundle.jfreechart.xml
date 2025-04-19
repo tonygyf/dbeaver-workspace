@@ -1,0 +1,12 @@
+<component name="libraryTable">
+ <library name="org.jkiss.bundle.jfreechart">
+   <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.jfreechart_1.5.5/lib/jfreechart-1.5.3.jar!/"/>
+      <root url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.jfreechart_1.5.5/lib/jfreechart-swt-1.1.0.jar!/"/>
+      <root url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.jfreechart_1.5.5/lib/swtgraphics2d-1.1.0.jar!/"/>
+  </CLASSES>
+   <SOURCES>
+   </SOURCES>
+   <jarDirectory url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.jfreechart_1.5.5/lib!/" recursive="false"/>
+ </library>
+</component>

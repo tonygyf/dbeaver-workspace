@@ -1,0 +1,545 @@
+D:\typer\java-project\dbeaver-ce\dbeaver\..\dbeaver\product\testing\DBeaverTest.product
+   -> org.jkiss.dbeaver.runtime.feature
+    -> slf4j.api
+    -> bcpg
+    -> bcprov
+    -> bcpkix
+    -> bcutil
+    -> com.github.jsqlparser
+    -> org.apache.commons.jexl
+    -> com.google.gson
+    -> com.jcraft.jsch
+    -> org.apache.commons.commons-logging
+    -> org.objectweb.asm
+    -> org.objectweb.asm.commons
+    -> org.objectweb.asm.tree.analysis
+    -> org.objectweb.asm.tree
+    -> org.objectweb.asm.util
+    -> org.apache.aries.spifly.dynamic.bundle
+    -> org.jkiss.utils
+     -> com.google.gson
+    -> org.jkiss.dbeaver.model
+     -> org.eclipse.equinox.security
+     -> org.eclipse.core.runtime
+     -> org.eclipse.core.expressions
+     -> org.eclipse.core.net
+     -> org.apache.commons.jexl
+     -> com.github.jsqlparser
+     -> com.google.gson
+     -> org.jkiss.utils (already printed)
+    -> (import)bcprov
+    -> (import)bcpkix
+    -> org.jkiss.dbeaver.model.jdbc
+     -> org.jkiss.dbeaver.model (already printed)
+    -> org.jkiss.dbeaver.model.sql
+     -> org.eclipse.core.runtime
+     -> com.google.gson
+     -> org.eclipse.text
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.lsm
+      -> org.jkiss.bundle.antlr4
+      -> org.jkiss.dbeaver.model (already printed)
+      -> org.jkiss.utils (already printed)
+      -> org.eclipse.core.runtime
+    -> org.jkiss.dbeaver.model.sql.jdbc
+     -> org.jkiss.dbeaver.model.jdbc (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+    -> org.jkiss.dbeaver.model.lsm (already printed)
+    -> org.jkiss.dbeaver.registry
+     -> org.eclipse.core.runtime
+     -> org.eclipse.core.expressions
+     -> org.eclipse.core.net
+     -> org.eclipse.equinox.security
+     -> org.objectweb.asm
+     -> com.google.gson
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.dpi.model
+      -> org.eclipse.core.runtime
+      -> org.jkiss.dbeaver.model (already printed)
+      -> com.google.gson
+     -> com.sun.jna.platform
+    -> org.jkiss.dbeaver.net.ssh
+     -> org.eclipse.equinox.security
+     -> org.eclipse.core.runtime
+     -> org.eclipse.jsch.core
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+     -> com.sun.jna
+     -> com.sun.jna.platform
+     -> com.jcraft.jsch
+    -> org.jkiss.dbeaver.net.ssh.jsch
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.net.ssh (already printed)
+     -> com.jcraft.jsch
+    -> org.jkiss.dbeaver.net.ssh.sshj
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.net.ssh (already printed)
+     -> org.jkiss.bundle.sshj
+     -> com.jcraft.jsch
+    -> (import)slf4j.api
+    -> org.jkiss.dbeaver.cmp.simple
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+     -> org.jkiss.utils (already printed)
+    -> org.jkiss.dbeaver.data.transfer
+     -> org.eclipse.core.expressions
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+    -> org.jkiss.dbeaver.tasks.native
+     -> org.eclipse.core.runtime
+     -> org.eclipse.core.expressions
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+    -> org.jkiss.dbeaver.erd.model
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+    -> org.jkiss.dbeaver.model.dashboard
+     -> org.eclipse.core.expressions
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+     -> com.google.gson
+    -> org.jkiss.dbeaver.dpi.app
+     -> org.eclipse.core.runtime
+     -> org.eclipse.equinox.app
+     -> org.eclipse.equinox.common
+     -> org.eclipse.equinox.event
+     -> org.apache.felix.scr
+     -> org.apache.aries.spifly.dynamic.bundle
+     -> slf4j.api
+     -> org.eclipse.equinox.simpleconfigurator
+     -> org.eclipse.update.configurator
+     -> org.jkiss.dbeaver.dpi.model (already printed)
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+    -> org.jkiss.dbeaver.dpi.model (already printed)
+    -> org.jkiss.dbeaver.data.gis
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.jdbc (already printed)
+     -> org.eclipse.core.runtime
+     -> org.jkiss.bundle.gis
+    -> org.jkiss.bundle.gis
+    -> org.jkiss.bundle.sshj
+    -> org.jkiss.bundle.antlr4
+   -> org.jkiss.dbeaver.db.feature
+    -> org.jkiss.dbeaver.ext.db2
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.jdbc (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+    -> org.jkiss.dbeaver.ext.mysql
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.jdbc (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+     -> org.jkiss.dbeaver.tasks.native (already printed)
+     -> com.google.gson
+     -> org.jkiss.dbeaver.ext.mysql.test
+      -> org.eclipse.core.runtime
+      -> org.eclipse.core.resources
+      -> org.junit
+      -> org.mockito.mockito-core
+      -> org.jkiss.dbeaver.headless
+       -> org.eclipse.osgi
+       -> org.eclipse.equinox.app
+       -> org.eclipse.core.runtime
+       -> org.eclipse.core.resources
+       -> org.jkiss.dbeaver.model (already printed)
+       -> org.jkiss.dbeaver.model.rcp
+        -> org.eclipse.core.expressions
+        -> org.eclipse.core.filesystem
+        -> org.eclipse.core.resources
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.registry (already printed)
+       -> org.jkiss.dbeaver.registry (already printed)
+      -> org.jkiss.dbeaver.model (already printed)
+      -> org.jkiss.dbeaver.model.sql (already printed)
+      -> org.jkiss.dbeaver.registry (already printed)
+      -> org.jkiss.dbeaver.test.platform
+       -> org.eclipse.core.runtime
+       -> org.eclipse.core.resources
+       -> org.junit
+       -> org.mockito.mockito-core
+       -> org.apache.felix.scr
+       -> org.jkiss.dbeaver.headless (already printed)
+       -> org.jkiss.dbeaver.model (already printed)
+       -> org.jkiss.dbeaver.model.sql (already printed)
+       -> org.jkiss.dbeaver.data.transfer (already printed)
+       -> org.jkiss.dbeaver.registry (already printed)
+       -> org.jkiss.dbeaver.ext.generic
+        -> org.eclipse.core.runtime
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.jdbc (already printed)
+        -> com.google.guava
+        -> com.google.gson
+        -> org.apache.commons.commons-codec
+        -> org.apache.commons.commons-logging
+        -> slf4j.api
+        -> org.jkiss.dbeaver.ext.generic.test
+         -> org.eclipse.core.runtime
+         -> org.eclipse.core.resources
+         -> org.junit
+         -> org.mockito.mockito-core
+         -> org.apache.felix.scr
+         -> org.jkiss.dbeaver.headless (already printed)
+         -> org.jkiss.dbeaver.model (already printed)
+         -> org.jkiss.dbeaver.model.sql (already printed)
+         -> org.jkiss.dbeaver.registry (already printed)
+         -> org.jkiss.dbeaver.ext.generic (already printed)
+         -> net.bytebuddy.byte-buddy
+         -> org.jkiss.dbeaver.test.platform (already printed)
+         -> net.bytebuddy.byte-buddy-agent
+         -> org.objenesis
+       -> org.jkiss.dbeaver.ext.postgresql
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.jdbc (already printed)
+        -> org.jkiss.dbeaver.model.sql (already printed)
+        -> org.jkiss.dbeaver.model.sql.jdbc (already printed)
+        -> org.jkiss.dbeaver.ext.generic (already printed)
+        -> org.jkiss.dbeaver.data.gis (already printed)
+        -> org.jkiss.bundle.gis
+        -> org.jkiss.dbeaver.registry (already printed)
+        -> org.jkiss.dbeaver.tasks.native (already printed)
+        -> com.google.gson
+        -> org.jkiss.dbeaver.ext.postgresql.test
+         -> org.eclipse.core.runtime
+         -> org.eclipse.core.resources
+         -> org.junit
+         -> org.mockito.mockito-core
+         -> org.apache.felix.scr
+         -> org.jkiss.dbeaver.headless (already printed)
+         -> org.jkiss.dbeaver.test.platform (already printed)
+         -> org.jkiss.dbeaver.model (already printed)
+         -> org.jkiss.dbeaver.model.sql (already printed)
+         -> org.jkiss.dbeaver.registry (already printed)
+         -> org.jkiss.dbeaver.ext.greenplum
+          -> org.jkiss.dbeaver.model (already printed)
+          -> org.jkiss.dbeaver.model.sql (already printed)
+          -> org.jkiss.dbeaver.ext.generic (already printed)
+          -> org.jkiss.dbeaver.ext.postgresql (already printed)
+          -> org.jkiss.dbeaver.ext.greenplum.test
+           -> org.junit
+           -> org.mockito.mockito-core
+           -> org.jkiss.dbeaver.headless (already printed)
+           -> org.jkiss.dbeaver.model (already printed)
+           -> org.jkiss.dbeaver.model.sql (already printed)
+           -> org.jkiss.dbeaver.registry (already printed)
+           -> org.jkiss.dbeaver.ext.postgresql (already printed)
+           -> org.jkiss.dbeaver.test.platform (already printed)
+           -> org.jkiss.dbeaver.ext.greenplum (already printed)
+       -> org.jkiss.dbeaver.osgi.test.runner
+        -> org.eclipse.core.runtime
+        -> org.eclipse.core.resources
+        -> org.junit
+        -> org.mockito.mockito-core
+        -> org.apache.felix.scr
+        -> org.jkiss.utils (already printed)
+        -> com.google.gson
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.objenesis
+        -> net.bytebuddy.byte-buddy
+        -> net.bytebuddy.byte-buddy-agent
+       -> org.jkiss.dbeaver.ext.oracle
+        -> org.eclipse.core.runtime
+        -> com.github.jsqlparser
+        -> com.google.gson
+        -> org.jkiss.dbeaver.data.gis (already printed)
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.jdbc (already printed)
+        -> org.jkiss.dbeaver.model.sql (already printed)
+        -> org.jkiss.dbeaver.registry (already printed)
+        -> org.jkiss.dbeaver.tasks.native (already printed)
+        -> org.jkiss.dbeaver.ext.oracle.test
+         -> org.eclipse.core.runtime
+         -> org.eclipse.core.resources
+         -> org.junit
+         -> org.mockito.mockito-core
+         -> org.apache.felix.scr
+         -> org.jkiss.dbeaver.headless (already printed)
+         -> org.jkiss.dbeaver.model (already printed)
+         -> org.jkiss.dbeaver.model.sql (already printed)
+         -> org.jkiss.dbeaver.test.platform (already printed)
+         -> org.jkiss.dbeaver.registry (already printed)
+       -> org.jkiss.dbeaver.ext.snowflake
+        -> com.sun.jna
+        -> com.sun.jna.platform
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.sql (already printed)
+        -> org.jkiss.dbeaver.ext.generic (already printed)
+        -> org.jkiss.dbeaver.ext.snowflake.test
+         -> org.junit
+         -> org.jkiss.dbeaver.model (already printed)
+         -> org.jkiss.dbeaver.model.sql (already printed)
+         -> org.jkiss.dbeaver.test.platform (already printed)
+         -> org.mockito.mockito-core
+       -> org.jkiss.dbeaver.ext.hana
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.sql (already printed)
+        -> org.jkiss.dbeaver.ext.generic (already printed)
+        -> org.jkiss.dbeaver.data.gis (already printed)
+        -> org.jkiss.bundle.gis
+        -> org.jkiss.dbeaver.ext.hana.test
+         -> org.eclipse.core.runtime
+         -> org.eclipse.core.resources
+         -> org.junit
+         -> org.mockito.mockito-core
+         -> org.jkiss.dbeaver.headless (already printed)
+         -> org.jkiss.dbeaver.model (already printed)
+         -> org.jkiss.dbeaver.model.sql (already printed)
+         -> org.jkiss.dbeaver.registry (already printed)
+         -> org.jkiss.dbeaver.test.platform (already printed)
+         -> org.jkiss.dbeaver.ext.generic (already printed)
+       -> org.jkiss.dbeaver.ext.mssql
+        -> org.eclipse.core.runtime
+        -> org.jkiss.dbeaver.model (already printed)
+        -> org.jkiss.dbeaver.model.jdbc (already printed)
+        -> org.jkiss.dbeaver.model.sql (already printed)
+        -> org.jkiss.dbeaver.ext.generic (already printed)
+        -> org.jkiss.dbeaver.model.lsm (already printed)
+        -> org.jkiss.dbeaver.registry (already printed)
+        -> org.jkiss.bundle.antlr4
+        -> com.github.jsqlparser
+        -> slf4j.api
+      -> org.jkiss.dbeaver.ext.mysql (already printed)
+    -> org.jkiss.dbeaver.ext.mssql (already printed)
+    -> org.jkiss.dbeaver.ext.oracle (already printed)
+    -> org.jkiss.dbeaver.ext.postgresql (already printed)
+    -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.athena
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.bigquery
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> slf4j.api
+    -> org.jkiss.dbeaver.ext.clickhouse
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> com.google.gson
+     -> org.jkiss.bundle.antlr4
+     -> org.jkiss.dbeaver.ext.clickhouse.test
+      -> org.eclipse.core.runtime
+      -> org.eclipse.core.resources
+      -> org.junit
+      -> org.mockito.mockito-core
+      -> org.jkiss.dbeaver.headless (already printed)
+      -> org.jkiss.dbeaver.model (already printed)
+      -> org.jkiss.dbeaver.model.sql (already printed)
+      -> org.jkiss.dbeaver.test.platform (already printed)
+      -> org.jkiss.dbeaver.registry (already printed)
+    -> (import)slf4j.api
+    -> org.jkiss.dbeaver.ext.cubrid
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.db2.zos
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.db2.i
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.databend
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> (import)slf4j.api
+    -> org.jkiss.dbeaver.ext.derby
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.dameng
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.duckdb
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+    -> (import)org.jkiss.utils (already printed)
+    -> (import)org.jkiss.dbeaver.model.sql (already printed)
+    -> org.jkiss.dbeaver.ext.exasol
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.jdbc (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> org.jkiss.utils (already printed)
+    -> (import)com.google.gson
+    -> org.jkiss.dbeaver.ext.firebird
+     -> org.eclipse.core.runtime
+     -> com.sun.jna
+     -> com.sun.jna.platform
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.gbase8s
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.greenplum (already printed)
+    -> org.jkiss.dbeaver.ext.h2
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+    -> org.jkiss.dbeaver.ext.hana (already printed)
+    -> org.jkiss.dbeaver.ext.hive
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.hsqldb
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.informix
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.netezza
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.oceanbase
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.ext.mysql (already printed)
+     -> com.google.gson
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+    -> org.jkiss.dbeaver.ext.tidb
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.ext.mysql (already printed)
+     -> com.google.gson
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.registry (already printed)
+    -> org.jkiss.dbeaver.ext.phoenix
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.snowflake (already printed)
+    -> org.jkiss.dbeaver.ext.spanner
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> com.google.guava
+     -> com.google.gson
+    -> (import)slf4j.api
+    -> org.jkiss.dbeaver.ext.sqlite
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> org.jkiss.bundle.gis
+     -> org.jkiss.dbeaver.model.lsm (already printed)
+     -> org.jkiss.bundle.antlr4
+     -> com.dbeaver.jdbc.driver.libsql
+      -> com.dbeaver.jdbc.api
+       -> org.jkiss.utils (already printed)
+      -> org.jkiss.utils (already printed)
+      -> com.google.gson
+     -> org.jkiss.dbeaver.ext.sqlite.test
+      -> org.eclipse.core.runtime
+      -> org.eclipse.core.resources
+      -> org.junit
+      -> org.mockito.mockito-core
+      -> org.apache.felix.scr
+      -> org.jkiss.dbeaver.headless (already printed)
+      -> org.jkiss.dbeaver.model (already printed)
+      -> org.jkiss.dbeaver.model.sql (already printed)
+      -> org.jkiss.dbeaver.registry (already printed)
+      -> org.jkiss.dbeaver.ext.generic (already printed)
+      -> org.jkiss.dbeaver.test.platform (already printed)
+      -> net.bytebuddy.byte-buddy
+      -> net.bytebuddy.byte-buddy-agent
+      -> org.objenesis
+    -> (import)org.jkiss.utils (already printed)
+    -> org.jkiss.dbeaver.ext.teradata
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.trino
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.vertica
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.ocient
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> (import)com.google.gson
+    -> org.jkiss.dbeaver.ext.denodo
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.databricks
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+    -> org.jkiss.dbeaver.ext.altibase
+     -> org.eclipse.core.runtime
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.generic (already printed)
+     -> org.jkiss.dbeaver.data.gis (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> com.google.gson
+     -> org.jkiss.dbeaver.tasks.native (already printed)
+     -> org.jkiss.dbeaver.ext.altibase.test
+      -> org.eclipse.core.runtime
+      -> org.eclipse.core.resources
+      -> org.junit
+      -> org.jkiss.dbeaver.test.platform (already printed)
+      -> org.mockito.mockito-core
+    -> org.jkiss.dbeaver.ext.gaussdb
+     -> org.jkiss.dbeaver.model (already printed)
+     -> org.jkiss.dbeaver.ext.postgresql (already printed)
+     -> org.jkiss.dbeaver.model.sql (already printed)
+    -> com.dbeaver.jdbc.api (already printed)
+    -> com.dbeaver.jdbc.driver.libsql (already printed)
+   -> org.jkiss.dbeaver.test.base.feature
+    -> org.eclipse.core.runtime
+    -> org.eclipse.equinox.common
+    -> org.eclipse.equinox.event
+    -> org.eclipse.equinox.preferences
+    -> org.eclipse.equinox.registry
+    -> org.eclipse.osgi.compatibility.state
+    -> org.apache.felix.scr
+    -> org.mockito.mockito-core
+    -> org.jkiss.dbeaver.slf4j
+     -> org.jkiss.dbeaver.model (already printed)
+    -> org.junit
+    -> com.google.gson
+    -> org.jkiss.dbeaver.headless (already printed)
+    -> org.jkiss.dbeaver.osgi.test.runner (already printed)
+    -> org.jkiss.dbeaver.test.platform (already printed)
+   -> org.jkiss.dbeaver.test.feature
+    -> org.jkiss.dbeaver.ext.snowflake.test (already printed)
+    -> org.jkiss.dbeaver.ext.oracle.test (already printed)
+    -> org.jkiss.dbeaver.model.lsm.test
+     -> org.jkiss.dbeaver.model.sql (already printed)
+     -> org.jkiss.dbeaver.model.lsm (already printed)
+     -> org.jkiss.bundle.antlr4
+     -> org.junit
+     -> org.mockito.mockito-core
+     -> org.apache.felix.scr
+     -> org.jkiss.dbeaver.test.platform (already printed)
+     -> net.bytebuddy.byte-buddy
+     -> net.bytebuddy.byte-buddy-agent
+    -> org.jkiss.dbeaver.ext.postgresql.test (already printed)
+    -> org.jkiss.dbeaver.ext.sqlite.test (already printed)
+    -> org.jkiss.dbeaver.ext.mysql.test (already printed)
+    -> org.jkiss.dbeaver.ext.hana.test (already printed)
+    -> org.jkiss.dbeaver.ext.greenplum.test (already printed)
+    -> org.jkiss.dbeaver.ext.altibase.test (already printed)
+    -> org.jkiss.dbeaver.ext.clickhouse.test (already printed)
+    -> org.jkiss.dbeaver.ext.generic.test (already printed)
+   -> org.eclipse.osgi
+   -> org.apache.felix.scr
+   -> org.eclipse.equinox.simpleconfigurator
+   -> org.eclipse.equinox.common
+   -> org.eclipse.equinox.event
+   -> org.eclipse.update.configurator

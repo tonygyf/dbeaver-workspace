@@ -1,0 +1,11 @@
+<component name="libraryTable">
+ <library name="org.jkiss.bundle.antlr4">
+   <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.antlr4_1.0.1/lib/antlr4-4.13.0.jar!/"/>
+      <root url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.antlr4_1.0.1/lib/antlr4-runtime-4.13.0.jar!/"/>
+  </CLASSES>
+   <SOURCES>
+   </SOURCES>
+   <jarDirectory url="jar://$PROJECT_DIR$/../../dbeaver-workspace/dependencies/plugins/org.jkiss.bundle.antlr4_1.0.1/lib!/" recursive="false"/>
+ </library>
+</component>
